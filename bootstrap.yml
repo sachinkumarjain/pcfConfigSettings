@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      label: v1.2
